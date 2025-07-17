@@ -1,2 +1,2 @@
 # My-Numpy-Repo
-Just me doing my thing
+All you need to know about Numpy
